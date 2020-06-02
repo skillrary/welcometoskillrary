@@ -31,12 +31,7 @@
     </site>
   </distributionManagement>
 	
-	
-	<!-- Container configuration -->
-  <container>
-    <containerId>tomcat9x</containerId>
-    <type>remote</type>
-  </container>
+
 
   <!-- Configuration to use with the container (which will also configure the deployer) -->
   <configuration>
