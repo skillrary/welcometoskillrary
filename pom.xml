@@ -33,14 +33,11 @@
 	
 
 
-  <!-- Configuration to use with the container (which will also configure the deployer) -->
-  <configuration>
-    <type>runtime</type>
     <properties>
       <cargo.remote.username>admin</cargo.remote.username>
       <cargo.remote.password>admin</cargo.remote.password>
     </properties>
-  </configuration>
+ 
 
   <build>
     <plugins>
