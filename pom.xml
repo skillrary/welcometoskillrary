@@ -31,12 +31,6 @@
     </site>
   </distributionManagement>
 	
-
-
-    <properties>
-      <cargo.remote.username>admin</cargo.remote.username>
-      <cargo.remote.password>admin</cargo.remote.password>
-    </properties>
  
 
   <build>
