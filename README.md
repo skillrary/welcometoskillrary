@@ -1,5 +1,3 @@
 # welcometoskillrary
-Hi im checking jenkins functionalityjksdjksdjfksdajk
-I m adding one more line.
-hi hello
-checking CD
+
+Hi This is from DevOps Uk Batch
